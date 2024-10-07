@@ -3,9 +3,9 @@ Leveraging Ml models for predicting the future prices of the commodities.
 
 DATA COLLECTION:
 
-We have deployed geckodriver for the retrieval of data from the government site.
-
-
+We have deployed kaggle and already available 
+dataset.
+  
 DATA PROPRESSING::
 
 We have cleaned the data and handled the missing values and defined the predictor and the target.
